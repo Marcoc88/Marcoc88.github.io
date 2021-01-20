@@ -6,7 +6,7 @@ permalink: /about/
 
 <h3 align="center">Summary</h3>
 
-iOS Developer with 4 years experience. Proficient in Swift. Pretend to know Objective-C.
+iOS Developer
 
 <hr>
 
