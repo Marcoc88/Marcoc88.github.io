@@ -4,6 +4,23 @@ title: Apps
 permalink: /apps/
 ---
 
+<h2 align="center">Bake-u-lator</h2>
+
+<p align="center">
+<a href="https://apps.apple.com/us/app/bake-u-lator/id1496549787">
+<img src="{{ site.baseurl }}/images/Bake-u-lator.png" alt="Bake-u-lator Logo" width="200" height="200"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://apps.apple.com/us/app/bake-u-lator/id1496549787" class="button">View Details</a>
+</p>
+
+Bake-u-lator is your personal baking calculator, recipe adjuster, and toolkit!
+
+<hr>
+
+
 <h2 align="center">Timestamp Images</h2>
 
 <p align="center">
